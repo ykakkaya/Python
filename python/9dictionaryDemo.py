@@ -43,3 +43,5 @@ print(students)
 stdNumber=input("öğrenci no giriniz")
 
 print(students[stdNumber])
+
+
