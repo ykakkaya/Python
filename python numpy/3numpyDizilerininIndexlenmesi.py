@@ -1,0 +1,21 @@
+import numpy as np
+
+numbers=np.array([5,10,15,20,25,50,75])
+print(numbers[3])
+print(numbers[-2])
+print(numbers[0:3])
+print(numbers[::])
+print(numbers[::-1])
+
+numbers2=np.array([[0,1,2],[3,4,5],[6,7,8],[9,10,11]])
+print(numbers2)
+print(numbers2[3])
+print(numbers2[0,2])
+print(numbers2[2,0])
+print(f"satırların değerleri toplamı= {numbers2.sum(axis=1)}")
+print(f"sütünların değerleri  toplamı= {numbers2.sum(axis=0)}")
+print(f"birinci satır değerlerin toplamı= {numbers2[0].sum()}")
+print(numbers2[:,1])
+print(f"tüm satırlardan ikinci sutunların toplamı= {numbers2[:,1].sum()}")
+print(f"tüm satırlardan ilk iki sutunlarındaki elemanlar=\n {numbers2[:,0:2]}")
+print(f"ilk iki satırlardaki sutunlar=\n {numbers2[0:2,:]}")
