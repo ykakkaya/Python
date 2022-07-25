@@ -40,9 +40,9 @@ print(np_array7)
 np_array8=np.random.randn(10)
 print(np_array8)
 
-# 9- (3x5) boyutlarında (10-50) arasında rastgele bir matris oluşturunuz.
+# 9- (3x5) boyutlarında (-50-50) arasında rastgele bir matris oluşturunuz.
 
-np_arr=np.random.randint(10,50,15)
+np_arr=np.random.randint(-50,50,15)
 m_arr=np_arr.reshape(3,5)
 print(m_arr)
 
