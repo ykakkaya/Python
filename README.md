@@ -1,6 +1,7 @@
 # Python
-## Python Base Exercise
-## Web scraping Exercise
-## Python Selenium Exercise
-## Python Numpy Exercise
-## Python Pandas Exercise
+## Python Base Exercises
+## Web scraping Exercises
+## Python Selenium Exercises
+## Python Numpy Exercises
+## Python Pandas Exercises
+## VBO VERI BILIMI INTRO EXERCISES
