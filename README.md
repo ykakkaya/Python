@@ -6,4 +6,4 @@
 ## Python Pandas Exercises
 ## VBO VERI BILIMI numpy and pandas exercises
 ## VBO VERI BILIMI Data Visualization exercises
-
+## VBO VERI BILIMI Data Preprocessing exercises
